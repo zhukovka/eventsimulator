@@ -1,3 +1,4 @@
+'use strict';
 const INPUT = 'input';
 const SUBMIT = 'submit';
 const CLICK = 'click';
