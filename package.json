@@ -1,0 +1,25 @@
+{
+  "name": "eventsimulator",
+  "version": "1.0.0",
+  "description": "simulate dom events with es6 class",
+  "main": "EventSimulator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhukovka/eventsimulator.git"
+  },
+  "keywords": [
+    "events",
+    "simulator",
+    "dom",
+    "es6"
+  ],
+  "author": "zhukovka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhukovka/eventsimulator/issues"
+  },
+  "homepage": "https://github.com/zhukovka/eventsimulator#readme"
+}
