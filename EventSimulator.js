@@ -21,7 +21,8 @@ class EventSimulator {
         };
     }
 
-    static createEvent(type, props = {bubbles: true}) {
+    static createEvent(type, props) {
+        props = props || {bubbles: true};
         return new Event(type, props);
     }
 
