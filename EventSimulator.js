@@ -112,4 +112,4 @@ class EventSimulator {
 
 }
 
-export default EventSimulator;
+module.exports = EventSimulator;
