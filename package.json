@@ -1,6 +1,6 @@
 {
   "name": "eventsimulator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "simulate dom events with es6 class",
   "main": "EventSimulator.js",
   "scripts": {
